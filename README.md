@@ -4,7 +4,7 @@
 
 Unofficial python 3 library to manage data from  https://hole.cert.pl/
 
-Official documentation can be found [here](http://hole.cert.pl/schema/certpl_lista_ostrzezen_api_v1.pdf). 
+Official documentation for *hole.cert.pl* can be found [here](http://hole.cert.pl/schema/certpl_lista_ostrzezen_api_v1.pdf). 
 
 ## Install
 
