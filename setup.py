@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='pycerthole',
-    version='0.1',
+    version='1.0',
     description='Unofficial python 3 library to manage data from https://hole.cert.pl/',
     long_description=long_description,
     long_description_content_type="text/markdown",
