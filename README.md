@@ -4,6 +4,8 @@
 
 Unofficial python 3 library to manage data from  https://hole.cert.pl/
 
+Official documentation can be found [here](http://hole.cert.pl/schema/certpl_lista_ostrzezen_api_v1.pdf). 
+
 ## Install
 
 You can install directly from [PyPi](https://pypi.org/project/pycerthole/)
@@ -89,3 +91,9 @@ Supported types:
 
 - `json` (default)
 - `csv`
+
+## Credits
+
+All credits for hole.cert.pl go to people from [cert.pl](https://www.cert.pl/).
+
+This project is an unofficial wrapper for an amazing service that **cert.pl** provides at [hole.cert.pl](https://hole.cert.pl)
